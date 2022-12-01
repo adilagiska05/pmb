@@ -1,0 +1,629 @@
+<!DOCTYPE html>
+<!-- saved from url=(0024)https://pmb.inaba.ac.id/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta http-equiv="content-type" content="text/html">
+<meta name="author" content="IT INABA">
+<meta content="Website Penerimaan Mahasiswa Baru Universitas Inaba" name="descriptison">
+<meta content="Penerimaan Mahasiswa Baru Inaba" name="keywords">
+<meta content="Mahasiswa Inaba" name="keywords">
+<meta content="Kampus Inaba" name="keywords">
+<meta content="Universitas Indonesia Membangun (INABA)" name="keywords">
+<meta content="Pendaftaran Mahasiswa Baru INABA" name="keywords">
+<meta content="Daftar INABA" name="keywords">
+<title>PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)</title>
+
+<link href="https://pmb.inaba.ac.id/assets/images/logos.png" rel="icon">
+<link href="https://pmb.inaba.ac.id/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/css" rel="stylesheet">
+
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/bootstrap.min.css" rel="stylesheet">
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/icofont.min.css" rel="stylesheet">
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/boxicons.min.css" rel="stylesheet">
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/venobox.css" rel="stylesheet">
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/remixicon.css" rel="stylesheet">
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/owl.carousel.min.css" rel="stylesheet">
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/remixicon.css" rel="stylesheet">
+
+<link href="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/style2.css" rel="stylesheet">
+
+
+<script async="" src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/js" type="text/javascript"></script>
+<script type="text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-51B4T4TELV');
+</script>
+</head>
+<body data-aos-easing="ease-in-out" data-aos-duration="1000" data-aos-delay="0"><button type="button" class="mobile-nav-toggle d-lg-none"><i class="icofont-navigation-menu"></i></button>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NH4H9NS" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<header id="header" class="fixed-top d-flex align-items-center header-transparent header-scrolled">
+<div class="container d-flex align-items-center">
+<div class="logo mr-auto">
+<h4 class=""><a href="https://pmb.inaba.ac.id/index.html"><span>Universitas Indonesia Membangun</span></a></h4>
+
+
+</div>
+<nav class="nav-menu d-none d-lg-block">
+<ul>
+<li class=""><a href="https://pmb.inaba.ac.id/#hero">Beranda</a></li>
+<li class=""><a href="https://pmb.inaba.ac.id/#about">INABA</a></li>
+<li class="active"><a href="https://pmb.inaba.ac.id/#features">Program Studi</a></li>
+<li><a href="https://pmb.inaba.ac.id/#testimonials">Testimoni</a></li>
+<li><a href="https://pmb.inaba.ac.id/#pricing">Jadwal PMB</a></li>
+
+
+</ul>
+</nav>
+<a href="https://pmb.inaba.ac.id/login" class="get-started-btn scrollto" target="_BLANK">Masuk</a>
+</div>
+</header>
+
+<section id="hero">
+<div class="container">
+<div class="row">
+<div class="col-lg-7 pt-5 pt-lg-0 order-2 order-lg-1 d-flex align-items-center">
+<div data-aos="zoom-out" class="aos-init aos-animate">
+<h2>Selamat Datang di</h2>
+<h1>Pendaftaran Mahasiswa Baru INABA </h1>
+<div class="text-center text-lg-left">
+<a href="https://pmb.inaba.ac.id/#pricing" class="btn-get-started scrollto" style="border-radius: 50px; text-align:center;">Daftar Sekarang</a>
+</div>
+</div>
+</div>
+<div class="col-lg-5 order-1 order-lg-2 hero-img aos-init aos-animate" data-aos="zoom-out" data-aos-delay="300">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/Asset 2.png" class="img-fluid animated" alt="">
+</div>
+</div>
+</div>
+<svg class="hero-waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 24 150 28 " preserveAspectRatio="none">
+<defs>
+<path id="wave-path" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z">
+</path></defs>
+<g class="wave1">
+<use xlink:href="#wave-path" x="50" y="3" fill="rgba(255,255,255, .1)">
+</use></g>
+<g class="wave2">
+<use xlink:href="#wave-path" x="50" y="0" fill="rgba(255,255,255, .2)">
+</use></g>
+<g class="wave3">
+<use xlink:href="#wave-path" x="50" y="9" fill="#fff">
+</use></g>
+</svg>
+</section>
+<main id="main">
+
+<section id="icon-boxes" class="icon-boxes">
+<div class="container">
+<div class="row">
+<div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade-up">
+<div class="icon-box">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website asset-06.png" width="70%" height="70%" alt="">
+</div>
+<h4 class="title text-center"><a href="https://pmb.inaba.ac.id/">Jalur Rapor</a></h4>
+
+<p class="description">-</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
+<div class="icon-box">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website asset-04.png" width="70%" height="70%" alt="">
+</div>
+<h4 class="title text-center"><a href="https://pmb.inaba.ac.id/">Jalur Undangan</a></h4>
+
+<p class="description">-</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-4 d-flex align-items-stretch mb-5 mb-lg-0 aos-init aos-animate" data-aos="fade-up" data-aos-delay="200">
+<div class="icon-box">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website asset-07.png" width="70%" height="70%" alt="">
+</div>
+ <h4 class="title text-center"><a href="https://pmb.inaba.ac.id/">Jalur KIP-Kuliah</a></h4>
+
+<p class="description">-</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="about" class="about">
+<div class="container-fluid">
+<div class="row">
+<div class="col-xl-5 col-lg-6 video-box d-flex justify-content-center align-items-stretch aos-init aos-animate" data-aos="fade-right">
+<a href="https://youtu.be/bfEsBbaj42Y" class="venobox play-btn mb-4 vbox-item" data-vbtype="video" data-autoplay="true"></a>
+</div>
+<div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5 aos-init aos-animate" data-aos="fade-left">
+<h3>Mengapa memilih INABA</h3>
+<p class="font-italic">
+<strong>Kampus INABA</strong> Kampus Digital Preneur<br>Salah satu kompetensi unggulan INABA adalah Digital Preneur, program yang mempersiapkan mahasiswa menjadi entrepreneur berbasis digital. Pesatnya perkembangan teknologi telah memberikan efek yang sangat signifikan pada tatanan ekonomi dunia. Oleh karena itu Digitalpreneur sangat dibutuhkan untuk membantu meningkatkan peluang bisnis dalam era disruption.
+</p>
+<div class="icon-boxs aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+<div class="icon"><i class="bx bx-buildings"></i></div>
+<h4 class="title"><a href="https://inaba.ac.id/">INABA BANDUNG</a></h4>
+<p class="description">Kampus Universitas Indonesia Membangun Bandung Memiliki Program Sarjana Manajemen, Akuntansi, Ilmu Komunikasi, Psikologi &amp; Program Pasca Sarjana Magister Manajemen</p>
+</div>
+<div class="icon-boxs aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200">
+<div class="icon"><i class="bx bx-buildings"></i></div>
+<h4 class="title"><a href="https://stmik-indonesia.ac.id/">INABA PSDKU JAKARTA</a></h4>
+<p class="description">Kampus Universitas Indonesia Membangun Bandung Memiliki Program Sarjana Sistem Informasi Dan Sistem Komputer</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="features" class="features">
+<div class="container">
+<div class="section-title aos-init aos-animate" data-aos="fade-up">
+<h2>INABA</h2>
+<p>Prodi INABA</p>
+</div>
+<div class="row aos-init aos-animate" data-aos="fade-left">
+<div class="col-lg-4 col-md-4">
+<div class="icon-box aos-init aos-animate" data-aos="zoom-in" data-aos-delay="50">
+
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-08.png" width="70%" height="70%" alt="">
+</div>
+<h3 class="text-center"><a href="https://pmb.inaba.ac.id/">Program Magister Manajemen</a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 mt-4 mt-md-0">
+<div class="icon-box aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-09.png" width="70%" height="70%" alt="">
+</div>
+<h3><a href="https://pmb.inaba.ac.id/">Program Sarjana Akuntansi</a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 mt-4 mt-md-0">
+<div class="icon-box aos-init aos-animate" data-aos="zoom-in" data-aos-delay="150">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-10.png" width="70%" height="70%" alt="">
+</div>
+<h3><a href="https://pmb.inaba.ac.id/">Program Sarjana Manajemen</a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 mt-4">
+<div class="icon-box aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-11.png" width="70%" height="70%" alt="">
+</div>
+<h3><a href="https://pmb.inaba.ac.id/">Program Sarjana Sistem Informasi</a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 mt-4">
+<div class="icon-box aos-init aos-animate" data-aos="zoom-in" data-aos-delay="250">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-14.png" width="70%" height="70%" alt="">
+</div>
+<h3><a href="https://pmb.inaba.ac.id/">Program Sarjana Sistem Komputer</a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 mt-4">
+<div class="icon-box aos-init aos-animate" data-aos="zoom-in" data-aos-delay="300">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-15.png" width="70%" height="70%" alt="">
+</div>
+<h3><a href="https://pmb.inaba.ac.id/">Program Sarjana Psikologi</a></h3>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 mt-4">
+<div class="icon-box aos-init aos-animate" data-aos="zoom-in" data-aos-delay="350">
+<div class="icon">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-13.png" width="70%" height="70%" alt="">
+</div>
+<h3><a href="https://pmb.inaba.ac.id/">Program Sarjana Ilmu Komunikasi</a></h3>
+</div>
+</div>
+</div>
+</div>
+</section> 
+
+<section id="counts" class="counts">
+<div class="container">
+<div class="row aos-init" data-aos="fade-up">
+<div class="col-lg-4 col-md-6">
+<div class="count-box">
+<i class="icofont-users-alt-5"></i>
+<span data-toggle="counter-up">2323</span>
+<p>Mahasiswa</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 mt-5 mt-md-0">
+<div class="count-box">
+<i class="icofont-document-folder"></i>
+<span data-toggle="counter-up">1041</span>
+<p>Pendaftar</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-6 mt-5 mt-lg-0">
+<div class="count-box">
+<i class="icofont-live-support"></i>
+<span data-toggle="counter-up">5431</span>
+<p>Lulusan</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section id="details" class="details">
+<div class="container">
+<div class="section-title aos-init" data-aos="fade-up">
+<h2>Pendaftaran</h2>
+<p>5 Langkah Mudah Mendaftar</p>
+</div>
+<ul class="nav nav-tabs row d-flex">
+<li class="nav-item col aos-init" data-aos="zoom-in">
+<a class="nav-link active show" data-toggle="tab" href="https://pmb.inaba.ac.id/#tab-1">
+<i class="ri-account-circle-fill"></i>
+<h4 class="d-none d-lg-block">Step 1</h4>
+</a>
+</li>
+<li class="nav-item col aos-init" data-aos="zoom-in" data-aos-delay="100">
+<a class="nav-link" data-toggle="tab" href="https://pmb.inaba.ac.id/#tab-2">
+<i class="ri-file-user-fill"></i>
+<h4 class="d-none d-lg-block">Step 2</h4>
+</a>
+</li>
+<li class="nav-item col aos-init" data-aos="zoom-in" data-aos-delay="200">
+<a class="nav-link" data-toggle="tab" href="https://pmb.inaba.ac.id/#tab-3">
+<i class="ri-bank-card-fill"></i>
+<h4 class="d-none d-lg-block">Step 3</h4>
+</a>
+</li>
+<li class="nav-item col aos-init" data-aos="zoom-in" data-aos-delay="300">
+<a class="nav-link" data-toggle="tab" href="https://pmb.inaba.ac.id/#tab-4">
+ <i class="ri-file-list-3-fill"></i>
+<h4 class="d-none d-lg-block">Step 4</h4>
+</a>
+</li>
+<li class="nav-item col aos-init" data-aos="zoom-in" data-aos-delay="400">
+<a class="nav-link" data-toggle="tab" href="https://pmb.inaba.ac.id/#tab-5">
+<i class="ri-checkbox-circle-fill"></i>
+<h4 class="d-none d-lg-block">Step 5</h4>
+</a>
+</li>
+</ul>
+<div class="tab-content aos-init" data-aos="fade-up">
+<div class="tab-pane active show" id="tab-1">
+<div class="row content">
+<div class="col-md-4 order-1 order-md-2 aos-init" data-aos="fade-left">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/account.png" height="240px" alt="">
+</div>
+<div class="col-md-8 pt-5 order-2 order-md-1 aos-init" data-aos="fade-up">
+<h3>01. Buat Akun</h3>
+<p>
+Kamu cukup mendaftar di laman: https://pmb.inaba.ac.id untuk membuat Akun Baru
+</p>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="tab-2">
+<div class="row content">
+<div class="col-md-4 order-1 order-md-2 aos-init aos-animate" data-aos="fade-left">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/profile.png" height="240px" alt="">
+</div>
+<div class="col-md-8 pt-5 order-2 order-md-1 aos-init aos-animate" data-aos="fade-up">
+<h3>02. Dapatkan User ID &amp; Password</h3>
+<p>
+Menerima Email Berupa Informasi Akun username dan password
+</p>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="tab-3">
+<div class="row content">
+<div class="col-md-4 order-1 order-md-2 aos-init aos-animate" data-aos="fade-left">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/form.png" height="240px" alt="">
+</div>
+<div class="col-md-8 pt-5 order-2 order-md-1 aos-init aos-animate" data-aos="fade-up">
+<h3>03. Melengkapai Biodata</h3>
+<p>
+Login dan lakukan pengisian data diri secara lengkap dan benar, penuhi kelengkapan berkas sesuai syarat dan ketentuan
+</p>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="tab-4">
+<div class="row content">
+<div class="col-md-4 order-1 order-md-2 aos-init aos-animate" data-aos="fade-left">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/payment.png" height="240px" alt="">
+</div>
+<div class="col-md-8 pt-5 order-2 order-md-1 aos-init aos-animate" data-aos="fade-up">
+<h3>04. Lakukan Pembayaran Pendaftaran</h3>
+<p>
+Konfirmasi Ke No Whatspaa untuk Lakukan Pembayaran Pendaftaran menggunakan Finpay, Virtual Account BNI &amp; Mandiri Melalui laman https://portal.inaba.ac.id/pembayaran
+</p>
+</div>
+</div>
+</div>
+<div class="tab-pane" id="tab-5">
+<div class="row content">
+<div class="col-md-4 order-1 order-md-2 aos-init aos-animate" data-aos="fade-left">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/announcement.png" height="240px" alt="">
+</div>
+<div class="col-md-8 pt-5 order-2 order-md-1 aos-init aos-animate" data-aos="fade-up">
+<h3>05. Pengumuman Kelulusan &amp; Daftar Ulang</h3>
+<p>
+Ketahui Informasi Pengumuman kelulusan dan mendapatkan NIM setelah melakukan daftar ulang
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+
+
+
+<section id="testimonials" class="testimonials">
+<div class="container">
+<div class="owl-carousel testimonials-carousel owl-loaded owl-drag aos-init" data-aos="zoom-in">
+
+
+
+
+
+<div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3330px, 0px, 0px); transition: all 0.25s ease 0s; width: 12210px;"><div class="owl-item cloned" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi3.jpeg" class="testimonial-img" alt="">
+<h3>Dwi Kholfah</h3>
+<h4>Alumni S1 Manajemen INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Hal yang sangat saya banggakan dan saya syukuri sampai saat ini adalah pernah berkuliah di INABA, karena berkat kuliah di INABA saya dapat bekerja di salah satu rumah sakit terbesar di Indonesia dan meniti karir saya hingga sekarang dapat menduduki posisi yang strategis dalam perusahaan.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi4.jpg" class="testimonial-img" alt="">
+<h3>Ovi Soviyani</h3>
+<h4>Bank Mandiri Syariah</h4>
+<h4>Alumni S1 Akuntansi INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Alhamdulillah setelah lulus dari INABA saya tidak sulit mencari pekerjaan, ilmu yang di dapat ketika perkulihan pun sangat bermanfaat dalam pekerjaan saya.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi5.jpg" class="testimonial-img" alt="">
+<h3>Widya Nurmala Seine</h3>
+<h4>Bank Mandiri</h4>
+<h4>Alumni S1 Akuntansi INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Alhamdulillah setelah lulus dari INABA saya tidak harus menunggu lama untuk mendapatkan pekerjaan, saya sekarang sudah bekerja di salah satu bank ternama di Indonesia berkat ilmu yang saya peroleh di INABA.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item active" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi1.jpg" class="testimonial-img" alt="">
+<h3>Retno Dewanti</h3>
+<h4>Komisaris PT. Gelora Intan Reksa</h4>
+<h4>Alumni Magister Manajemen INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Saya sangat bangga dapat menjadi salah seorang dari sekian banyak mahasiswa yang mendapatkan ilmu manajemen dari para dosen yang berkompeten dibidangnya baik secara teoritis maupun praktis. Program Studi Magister Manajemen INABA mampu memberikan ilmu yang relevan dengan dunia kerja karena ilmu yang telah dipelajari memberikan fondasi kuat pada pengembangan karir.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi2.jpg" class="testimonial-img" alt="">
+<h3>Ridha Agus</h3>
+<h4>PNS di Biro Humas dan Tata Usaha Pimpinan Kementerian PPN/Bappenas</h4>
+<h4>Alumni Magister Manajemen STIE INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Sebagai alumni Program Magister Manajemen di INABA, disini saya dapat &nbsp;menambah kapasitas intelektual&nbsp; juga mendukung pengembangan pribadi. Selain itu, tenaga pengajarnya juga sangat berdedikasi dan berkomitmen tinggi sehingga dapat dikatakan kampus yang kompeten dalam mendidik mahasiswanya. Semoga kedepannya INABA makin maju dan selalu berperan dalam membangun Indonesia.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi3.jpeg" class="testimonial-img" alt="">
+<h3>Dwi Kholfah</h3>
+<h4>Alumni S1 Manajemen INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Hal yang sangat saya banggakan dan saya syukuri sampai saat ini adalah pernah berkuliah di INABA, karena berkat kuliah di INABA saya dapat bekerja di salah satu rumah sakit terbesar di Indonesia dan meniti karir saya hingga sekarang dapat menduduki posisi yang strategis dalam perusahaan.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi4.jpg" class="testimonial-img" alt="">
+<h3>Ovi Soviyani</h3>
+<h4>Bank Mandiri Syariah</h4>
+<h4>Alumni S1 Akuntansi INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Alhamdulillah setelah lulus dari INABA saya tidak sulit mencari pekerjaan, ilmu yang di dapat ketika perkulihan pun sangat bermanfaat dalam pekerjaan saya.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi5.jpg" class="testimonial-img" alt="">
+<h3>Widya Nurmala Seine</h3>
+<h4>Bank Mandiri</h4>
+<h4>Alumni S1 Akuntansi INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Alhamdulillah setelah lulus dari INABA saya tidak harus menunggu lama untuk mendapatkan pekerjaan, saya sekarang sudah bekerja di salah satu bank ternama di Indonesia berkat ilmu yang saya peroleh di INABA.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi1.jpg" class="testimonial-img" alt="">
+<h3>Retno Dewanti</h3>
+<h4>Komisaris PT. Gelora Intan Reksa</h4>
+<h4>Alumni Magister Manajemen INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Saya sangat bangga dapat menjadi salah seorang dari sekian banyak mahasiswa yang mendapatkan ilmu manajemen dari para dosen yang berkompeten dibidangnya baik secara teoritis maupun praktis. Program Studi Magister Manajemen INABA mampu memberikan ilmu yang relevan dengan dunia kerja karena ilmu yang telah dipelajari memberikan fondasi kuat pada pengembangan karir.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi2.jpg" class="testimonial-img" alt="">
+<h3>Ridha Agus</h3>
+<h4>PNS di Biro Humas dan Tata Usaha Pimpinan Kementerian PPN/Bappenas</h4>
+<h4>Alumni Magister Manajemen STIE INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Sebagai alumni Program Magister Manajemen di INABA, disini saya dapat &nbsp;menambah kapasitas intelektual&nbsp; juga mendukung pengembangan pribadi. Selain itu, tenaga pengajarnya juga sangat berdedikasi dan berkomitmen tinggi sehingga dapat dikatakan kampus yang kompeten dalam mendidik mahasiswanya. Semoga kedepannya INABA makin maju dan selalu berperan dalam membangun Indonesia.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div><div class="owl-item cloned" style="width: 1110px;"><div class="testimonial-item">
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/testi3.jpeg" class="testimonial-img" alt="">
+<h3>Dwi Kholfah</h3>
+<h4>Alumni S1 Manajemen INABA</h4>
+<p>
+<i class="bx bxs-quote-alt-left quote-icon-left"></i>
+Hal yang sangat saya banggakan dan saya syukuri sampai saat ini adalah pernah berkuliah di INABA, karena berkat kuliah di INABA saya dapat bekerja di salah satu rumah sakit terbesar di Indonesia dan meniti karir saya hingga sekarang dapat menduduki posisi yang strategis dalam perusahaan.
+<i class="bx bxs-quote-alt-right quote-icon-right"></i>
+</p>
+</div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots"><button role="button" class="owl-dot active"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button></div></div>
+</div>
+</section>
+
+<section id="pricing" class="pricing">
+<div class="container">
+<div class="section-title aos-init" data-aos="fade-up">
+<h2>PMB</h2>
+<p>Jadwal PMB</p>
+</div>
+<div class="row aos-init" data-aos="fade-left">
+<div class="col-lg-3 col-md-6 aos-init" data-aos="zoom-in" data-aos-delay="100">
+<div class="box">
+<h3 style="color: #010488;">Periode Genap 2022 - 2023</h3>
+<img src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/1.png" class="img-fluid" alt="">
+<form method="post" action="https://pmb.inaba.ac.id/daftar/jalurpenerimaan">
+<input type="hidden" name="periodedaftar" id="periodedaftar" value="20222">
+<input type="hidden" name="idgelombang" id="idgelombang" value="03">
+<input type="hidden" name="jalurpenerimaan" id="jalurpenerimaan" value="Umum">
+<ul class="list-unstyled">
+<li><label>Jalur Penerimaan : </label></li>
+<li><label style="font-weight: 700;">Umum</label></li>
+<li><label>Awal Daftar : </label> </li>
+<li><label style="font-weight: 700;">16 Nopember 2022</label></li>
+<li><label>Akhir Daftar : </label> </li>
+<li><label style="font-weight: 700;">30 Nopember 2022</label></li>
+<li><label>Status : </label> </li>
+<li><label style="font-weight: 700;"> Buka </label></li>
+</ul>
+<button type="submit" class="btn btn-buy btn-round btn-block displayblock" target="_BLANK">Daftar Sekarang</button>
+</form>
+</div>
+</div>
+
+</div>
+</div>
+</section>
+
+
+
+
+</main>
+
+<footer id="footer">
+<div class="footer-top">
+<div class="container">
+<div class="row justify-content-center">
+<div class="col-lg-6 col-md-6">
+<div class="footer-info">
+<h3>INABA</h3>
+<p class="pb-3"><em>Jika ada hal yang kurang jelas, silakan menghubungi kami ke </em></p>
+<p>
+<strong>Phone:</strong> +(62)22-7563919 / +(62)821-1818-2355<br>
+<strong>Email:</strong> humas.marketing@inaba.ac.id<br>
+</p>
+<div class="social-links mt-3">
+<a href="https://twitter.com/humasinaba?lang=id" target="_blank" class="twitter"><i class="bx bxl-twitter"></i></a>
+<a href="https://www.facebook.com/HumasMarketingStieInabaBandung/" target="_blank" class="facebook"><i class="bx bxl-facebook"></i></a>
+<a href="https://www.instagram.com/inabauniversityofficial/?hl=id" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+
+</div>
+</div>
+</div>
+<div class="col-lg-6 col-md-6">
+<div class="footer-info">
+<h3>Link Terkait</h3>
+<div class="links white-text">
+<a href="https://portal.inaba.ac.id/" target="_blank">Sistem Informasi Akademik</a>
+</div>
+<div class="links ">
+<a href="https://elearning.inaba.ac.id/" target="_blank">E-Learning</a>
+</div>
+<div class="links">
+<a href="https://journals.inaba.ac.id/" target="_blank">E-Jurnal</a>
+</div>
+<div class="links">
+<a href="https://opaclib.inaba.ac.id/" target="_blank">E-Library</a>
+</div>
+<div class="links">
+<a href="https://repository.inaba.ac.id/" target="_blank">Repositori</a>
+</div>
+<div class="links">
+<a href="https://pmb.inaba.ac.id/" target="_blank">Penerimaan Mahasiswa Baru</a>
+</div>
+<div class="links ">
+<a href="https://kemahasiswaan.inaba.ac.id/" target="_blank">Kemahasiswaan INABA</a>
+</div>
+<div class="links ">
+<a href="https://tracer.inaba.ac.id/" target="_blank">Tracer Study INABA</a>
+</div>
+<div class="links">
+<a href="https://stmik-indonesia.ac.id/">Website Kampus INABA JAKARTA</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="container">
+<div class="copyright">
+© Copyright <strong><span>IT Universitas Indonesia Membangun</span></strong>. All Rights Reserved
+</div>
+<div class="credits">
+
+
+
+
+Template by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+</div>
+</div>
+</footer>
+<a href="https://pmb.inaba.ac.id/#" class="back-to-top" style="display: inline;"><i class="icofont-simple-up"></i></a>
+<a href="https://wa.link/78o6ww"><h5 class="float2 btn ">Contact Us</h5></a>
+<a href="https://wa.link/78o6ww" class="float"><span><i class="bx bxl-whatsapp"></i></span></a>
+
+
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/jquery.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/bootstrap.bundle.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/jquery.easing.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/validate.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/jquery.waypoints.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/counterup.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/isotope.pkgd.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/venobox.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/owl.carousel.min.js.download" type="text/javascript"></script>
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/aos.js.download" type="text/javascript"></script>
+
+<script src="./PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/main2.js.download" type="text/javascript"></script>
+
+<nav class="mobile-nav d-lg-none">
+<ul>
+<li class=""><a href="https://pmb.inaba.ac.id/#hero">Beranda</a></li>
+<li class=""><a href="https://pmb.inaba.ac.id/#about">INABA</a></li>
+<li class="active"><a href="https://pmb.inaba.ac.id/#features">Program Studi</a></li>
+<li><a href="https://pmb.inaba.ac.id/#testimonials">Testimoni</a></li>
+<li><a href="https://pmb.inaba.ac.id/#pricing">Jadwal PMB</a></li>
+
+
+</ul>
+</nav><div class="mobile-nav-overly"></div></body></html>

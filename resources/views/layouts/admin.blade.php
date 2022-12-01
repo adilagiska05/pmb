@@ -49,7 +49,7 @@
   </div>
 
   <!-- Navbar -->
-  @include('layouts.includes.nav')
+  @include('layouts.includes.back.nav')
   <!-- /.navbar -->
 
   <!-- Main Sidebar Container -->
@@ -68,7 +68,7 @@
           <img src="{{asset('assets/back/dist/img/p.jpg')}}" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Admin</a>
+          <a href="#" class="d-block">{{ Auth::user()->name }}</a>
         </div>
       </div>
 
@@ -85,7 +85,7 @@
       </div>
 
       <!-- Sidebar Menu -->
-      @include('layouts.includes.side')
+      @include('layouts.includes.back.side')
       <!-- /.sidebar-menu -->
     </div>
     <!-- /.sidebar -->

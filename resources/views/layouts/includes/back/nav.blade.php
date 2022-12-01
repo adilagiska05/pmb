@@ -50,7 +50,7 @@
                         href="{{route('logout')}}" role="button" 
                         onclick="event.preventDefault();
                         document.getElementById('logout-form').submit();">
-                        <i class="fas fa-th-large"></i>  {{ Auth::user()->name }}
+                        <i class="fas fa-th-large"></i> logout
                     </a>
                     <form action="{{route('logout')}}" id="logout-form" method="post">
                         @csrf

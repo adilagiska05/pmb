@@ -67,3 +67,7 @@ Route::get('/errors', function () {
     // Route::resource('guru', GuruController::class);
 
 // });
+
+Route::get('user', function () {
+    return view('layouts.user');
+});
