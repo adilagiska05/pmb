@@ -129,7 +129,7 @@
         <div >
         <img src="{{ asset('assets/front/img/building (1).png')}}" alt="" height="40" width="50" > <a href="https://inaba.ac.id/"><b>Inaba Bandung</b> </a><br>
         <p >Kampus Universitas Indonesia Membangun Bandung Memiliki Program Sarjana Manajemen, Akuntansi, Ilmu Komunikasi, Psikologi & Program <br>
-        Pasca Sarjana Magister Manajemen</p>
+        Pasca Sarjana Magister Manajemen</p><i class="bi bi-play-circle-fill"></i><a href="https://www.youtube.com/watch?v=j7Nvnfs3kcA&t=287s"></a>
         </div>
         
           
@@ -181,7 +181,7 @@
               <!-- <h3>Eosle Commodi</h3>
               <p>Ut autem aut autem non a. Sint sint sit facilis nam iusto sint. Libero corrupti neque eum hic non ut nesciunt dolorem.</p> -->
               <!-- <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
-              <h1></h1>
+              <h1>Program Sarjana Akuntansi</h1>
             </div>
           </div>
 
@@ -192,7 +192,7 @@
               <h3>Ledo Markt</h3>
               <p>Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus ea aut. Vel qui id voluptas adipisci eos earum corrupti.</p>
               <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
-              <h1></h1>
+              <h1>Program Sarjana Manajemen</h1>
             </div>
           </div>
 
@@ -203,7 +203,7 @@
               <h3>Asperiores Commodi</h3>
               <p>Non et temporibus minus omnis sed dolor esse consequatur. Cupiditate sed error ea fuga sit provident adipisci neque.</p>
               <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
-              <h1></h1>
+              <h1>Program Sarjana Sistem Informasi</h1>
             </div>
           </div>
 
@@ -214,7 +214,7 @@
               <!-- <h3>Velit Doloremque.</h3>
               <p>Cumque et suscipit saepe. Est maiores autem enim facilis ut aut ipsam corporis aut. Sed animi at autem alias eius labore.</p>
               <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
-              <h1></h1>
+              <h1>Program Sarjana Sistem Komputer</h1>
             </div>
           </div>
 
@@ -225,7 +225,7 @@
               <h3>Dolori Architecto</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
               <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
-              <h1></h1>
+              <h1>Program Sarjana Psikologi</h1>
             </div>
           </div>
 
@@ -238,7 +238,7 @@
               <h3>Dolori Architecto</h3>
               <p>Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque non et debitis iure. Corrupti recusandae ducimus enim.</p>
               <a href="#" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a> -->
-              <h1></h1>
+              <h1>Program Sarjana Ilmu Komunikasi</h1>
             </div>
           </div>
 
@@ -253,7 +253,7 @@
 
         <div class="row gy-4">
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
               <div>
@@ -263,7 +263,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="count-box">
               <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
               <div>
@@ -273,7 +273,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-md-6">
+          <div class="col-lg-4 col-md-6">
             <div class="count-box">
               <i class="bi bi-headset" style="color: #15be56;"></i>
               <div>
@@ -645,51 +645,50 @@
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
             <a href="index.html" class="logo d-flex align-items-center">
-              <img src="{{ asset('assets/front/img/logo.png ')}}" alt="">
-              <span>FlexStart</span>
+              <img src="{{ asset('assets/front/img/inaba.png ')}}" alt="">
+              <span>INABA</span>
             </a>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-            <div class="social-links mt-3">
-              <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-              <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-              <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-            </div>
-          </div>
-
-          <div class="col-lg-2 col-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-2 col-6 footer-links">
-            <h4>Our Services</h4>
-            <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="#">Graphic Design</a></li>
-            </ul>
-          </div>
-
-          <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-            <h4>Contact Us</h4>
+            <p><i>Jika ada hal yang kurang jelas, silakan menghubungi kami ke</i></p>
+            <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
+            
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
+           
               <strong>Phone:</strong> +1 5589 55488 55<br>
               <strong>Email:</strong> info@example.com<br>
             </p>
 
           </div>
+            <div class="social-links mt-3">
+              <a href="https://twitter.com/humasinaba?lang=id" class="twitter"><i class="bi bi-twitter"></i></a>
+              <a href="https://www.facebook.com/HumasMarketingStieInabaBandung/" class="facebook"><i class="bi bi-facebook"></i></a>
+              <a href="https://www.instagram.com/inabauniversityofficial/?hl=id" class="instagram"><i class="bi bi-instagram"></i></a>
+              
+            </div>
+          </div>
+
+          <div class="col-lg-2 col-6 footer-links">
+            <h4>Link Terkait</h4>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://portal.inaba.ac.id/">Sistem Informasi Akademik</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://elearning.inaba.ac.id/">E-Learning</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://journals.inaba.ac.id/">E-Jurnal</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://opaclib.inaba.ac.id/">E-Library</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://repository.inaba.ac.id/">Repository</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-2 col-6 footer-links">
+            <h4>Link Terkait</h4>
+            <ul>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://pmb.inaba.ac.id/">Penerimaan Mahasiswa Baru</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="https://kemahasiswaan.inaba.ac.id/">Kemahasiswaan INABA</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="">Tracer Study Mahasiswa</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="">Website Kampus  INABA JAKARTA</a></li>
+              
+            </ul>
+          </div>
+
+          
 
         </div>
       </div>
@@ -708,6 +707,8 @@
       </div>
     </div>
   </footer><!-- End Footer -->
+
+
 
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 

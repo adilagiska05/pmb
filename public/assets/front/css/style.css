@@ -2268,14 +2268,15 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  background: #f6f9ff;
+  background: #0e1da5;
   padding: 0 0 30px 0;
   font-size: 14px;
 }
 
+
 .footer .footer-newsletter {
   padding: 50px 0;
-  background: #f6f9ff;
+  background: #e8edf7;
   border-top: 1px solid #e1ecff;
 }
 
@@ -2290,7 +2291,7 @@ section {
 
 .footer .footer-newsletter form {
   margin-top: 20px;
-  background: #fff;
+  background: rgb(255, 255, 255);
   padding: 6px 10px;
   position: relative;
   border-radius: 4px;
@@ -2324,7 +2325,8 @@ section {
 }
 
 .footer .footer-top {
-  background: white url(../img/footer-bg.png) no-repeat right top;
+  /* background: white url(../img/footer-bg.png) no-repeat right top; */
+  background-color: #0e1da5;
   background-size: contain;
   border-top: 1px solid #e1ecff;
   border-bottom: 1px solid #e1ecff;
@@ -2355,7 +2357,7 @@ section {
   font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
-  color: #012970;
+  color: #d6dfee;
   font-family: "Nunito", sans-serif;
   margin-top: 3px;
 }
@@ -2365,25 +2367,26 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Nunito", sans-serif;
+  color: white;
 }
 
 .footer .footer-top .social-links a {
   font-size: 20px;
   display: inline-block;
-  color: rgba(1, 41, 112, 0.5);
+  color: white;
   line-height: 0;
   margin-right: 10px;
   transition: 0.3s;
 }
 
 .footer .footer-top .social-links a:hover {
-  color: #012970;
+  color: #086e58;
 }
 
 .footer .footer-top h4 {
   font-size: 16px;
   font-weight: bold;
-  color: #012970;
+  color: #c4d2eb;
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
@@ -2401,7 +2404,7 @@ section {
 
 .footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #d0d4fc;
+  color: #058a74;
   font-size: 12px;
   line-height: 0;
 }
@@ -2410,6 +2413,7 @@ section {
   padding: 10px 0;
   display: flex;
   align-items: center;
+  
 }
 
 .footer .footer-top .footer-links ul li:first-child {
@@ -2417,14 +2421,14 @@ section {
 }
 
 .footer .footer-top .footer-links ul a {
-  color: #013289;
+  color: white;
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
 }
 
 .footer .footer-top .footer-links ul a:hover {
-  color: #4154f1;
+  color: rgb(4, 134, 91);
 }
 
 .footer .footer-top .footer-contact p {
@@ -2434,12 +2438,12 @@ section {
 .footer .copyright {
   text-align: center;
   padding-top: 30px;
-  color: #012970;
+  color: #b3c5e4;
 }
 
 .footer .credits {
   padding-top: 10px;
   text-align: center;
   font-size: 13px;
-  color: #012970;
+  color: #c6d2e7;
 }
