@@ -71,3 +71,13 @@ Route::get('/errors', function () {
 Route::get('user', function () {
     return view('layouts.user');
 });
+
+
+Route::get('daftar/jalur', function () {
+    return view('layouts.daftar.daftar');
+});
+
+
+Route::get('daftar/jalur/form', function () {
+    return view('layouts.daftar.form');
+});
