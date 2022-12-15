@@ -3,6 +3,7 @@
 use App\Http\Controllers\ProdiController;
 use App\Http\Controllers\InformasiController;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\PendaftarController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -35,6 +36,7 @@ Route::group(['prefix' => 'admin', 'middleware' => ['auth', 'isAdmin']], functio
 
     Route::resource('prodi', ProdiController::class);
     Route::resource('informasi', InformasiController::class);
+    Route::resource('pendaftar', PendaftarController::class);
     Route::get('home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
    

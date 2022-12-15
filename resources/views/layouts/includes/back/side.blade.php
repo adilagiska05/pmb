@@ -12,13 +12,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="prodi" class="nav-link ">
+                <a href="admin/prodi" class="nav-link ">
                   <i class="far fa-love nav-icon"></i>
                   <p>Prodi</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="informasi" class="nav-link">
+                <a href="admin/informasi" class="nav-link">
                   <i class="far fa-love nav-icon"></i>
                   <p>Informasi</p>
                 </a>

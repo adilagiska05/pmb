@@ -37,7 +37,7 @@
 
         .formbold-form-wrapper {
             margin: 0 auto;
-            max-width: 550px;
+            max-width: 1000px;
             width: 100%;
             background: white;
         }
@@ -84,6 +84,7 @@
             background-color: #6a64f1;
             color: white;
             cursor: pointer;
+            float: right;
         }
 
         .formbold-btn:hover {
@@ -131,6 +132,7 @@
             }
         }
 
+      
     </style>
 
 
@@ -173,10 +175,13 @@
                             <div class="flex flex-wrap formbold--mx-3">
                                 <div class="w-full sm:w-half formbold-px-3">
                                     <div class="formbold-mb-5">
-                                        <label for="fName" class="formbold-form-label">Periode Daftar</label>
+                                        <label for="fName" class="formbold-form-label1">Periode Daftar</label>
                                         <div class="nav1">Gasal 2022-2023</div>
+                    
                                     </div>
+                                   
                                 </div>
+
                        
                                 <div class="w-full sm:w-half formbold-px-3">
                                     <div class="formbold-mb-5">
@@ -322,7 +327,7 @@
                                 </div>
                             </div>
 
-                            <div class="flex formbold-mb-5">
+                            <!-- <div class="flex formbold-mb-5">
                                 <div class="flex">
                                     <input type="radio" name="radio1" id="radioButton1" class="formbold-radio" />
                                     <label for="radioButton1" class="formbold-radio-label"> Yes </label>
@@ -331,7 +336,7 @@
                                     <input type="radio" name="radio1" id="radioButton2" class="formbold-radio" />
                                     <label for="radioButton2" class="formbold-radio-label"> No </label>
                                 </div>
-                            </div>
+                            </div> -->
 
                             <div>
                                 <button class="formbold-btn">Submit</button>
