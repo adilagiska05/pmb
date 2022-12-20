@@ -83,3 +83,8 @@ Route::get('daftar/jalur', function () {
 Route::get('daftar/jalur/form', function () {
     return view('layouts.daftar.form');
 });
+
+
+Route::get('try', function () {
+    return view('try');
+});

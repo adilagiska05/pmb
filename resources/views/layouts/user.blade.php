@@ -70,6 +70,56 @@
 
   </section><!-- End Hero -->
 
+
+
+
+  <!-- ======= Team Section ======= -->
+  <section id="team" class="team section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-4 col-md-7 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="{{ asset('assets/front/img/rapor.jpg ')}}" width="300" height="400" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h2>Jalur Rapor</h2>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-7 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="200">
+              <div class="member-img">
+                <img src="{{ asset('assets/front/img/undangan.jfif ')}}" width="200" height="300" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h2>Jalur Undangan</h2>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-7 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="300">
+              <div class="member-img">
+                <img src="{{ asset('assets/front/img/kip.jfif ')}}" width="300" height="400" class="img-fluid" alt="">
+              </div>
+              <div class="member-info">
+                <h2>Jalur KIP-Kuliah</h2>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
+
   <main id="main">
     <!-- ======= About Section ======= -->
     <section id="about" class="about">
@@ -136,8 +186,7 @@
             href="https://inaba.ac.id/"><b>Inaba Bandung</b> </a><br>
           <p>Kampus Universitas Indonesia Membangun Bandung Memiliki Program Sarjana Manajemen, Akuntansi, Ilmu
             Komunikasi, Psikologi & Program <br>
-            Pasca Sarjana Magister Manajemen</p><i class="bi bi-play-circle-fill"></i><a
-            href="https://www.youtube.com/watch?v=j7Nvnfs3kcA&t=287s"></a>
+            Pasca Sarjana Magister Manajemen</p>
         </div>
 
 
@@ -148,9 +197,20 @@
             Komputer</p>
         </div>
 
+
+        <div class="col-lg-2 col-6">
+          <div class=""><iframe width="560" height="315" src="https://www.youtube.com/embed/V8oO-Z5g3No"
+              title="YouTube video player" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe></div>
+        </div>
+
       </div>
 
-    </section><!-- End About Section -->
+    </section>
+
+
+    <!-- End About Section -->
 
     <!-- ======= Values Section ======= -->
     <!-- End Values Section -->
@@ -185,6 +245,28 @@
               <h1>Program Magister Manajemen</h1>
             </div>
           </div>
+
+
+
+
+
+          <!-- <div class="card mb-3" style="max-width: 540px;">
+            <div class="row g-0">
+              <div class="col-md-4">
+                <img
+                  src="{{ asset('assets/front/img/PMB UNIVERSITAS INDONESIA MEMBANGUN (INABA)_files/website-asset-08.png')}}"
+                  class="img-fluid rounded-start" alt="..." height="200" width="200">
+              </div>
+              <div class="col-md-8">
+                <div class="card-body">
+                  <h5 class="card-title">Card title</h5>
+                  <p class="card-text">This is a wider card with supporting text below as a natural lead-in to
+                    additional content. This content is a little bit longer.</p>
+                  <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+                </div>
+              </div>
+            </div>
+          </div> -->
 
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
             <div class="service-box orange">
@@ -279,7 +361,8 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="count-box">
-              <i class="bi bi-emoji-smile"></i>
+              <!-- <i class="bi bi-emoji-smile"></i> -->
+              <img src="{{asset('assets/front/img/group.png')}}" widht="50" height="50">
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1"
                   class="purecounter"></span>
@@ -290,7 +373,8 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="count-box">
-              <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i>
+              <!-- <i class="bi bi-journal-richtext" style="color: #ee6c20;"></i> -->
+              <img src="{{asset('assets/front/img/folder.png')}}" widht="50" height="50">
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1"
                   class="purecounter"></span>
@@ -301,7 +385,8 @@
 
           <div class="col-lg-4 col-md-6">
             <div class="count-box">
-              <i class="bi bi-headset" style="color: #15be56;"></i>
+              <!-- <i class="bi bi-headset" style="color: #15be56;"></i> -->
+              <img src="{{asset('assets/front/img/graduates.png')}}" widht="50" height="50">
               <div>
                 <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1"
                   class="purecounter"></span>
@@ -317,7 +402,59 @@
       </div>
     </section>
 
-    <section id="details" class="details">
+<!-- ======= Services Section ======= -->
+<section id="services" class="section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <header class="section-header">
+          <h3>Pendaftaran_____</h3>
+          <p>5 LANGKAH MUDAH MENDAFTAR </p>
+        </header>
+
+        <div class="row justify-content-center">
+
+          <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="100">
+            <div class="box">            
+              <h2 class="title">01. Buat Akun</h2>
+              <p class="description">Kamu cukup mendaftar di halaman : <a href = "https://pmb.inaba.ac.id">https://pmb.inaba.ac.id</a>  untuk membuat Akun Baru</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="200">
+            <div class="box">     
+              <h2 class="title">03. Melengkapai Biodata</h2>
+              <p class="description">Login dan lakukan pengisian data diri secara lengkap dan benar, penuhi kelengkapan berkas sesuai syarat dan ketentuan</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="200">
+            <div class="box">           
+              <h2 class="title">02. Dapatkan User ID & Password </h2>
+              <p class="description">Menerima Email Berupa Informasi Akun Username dan Password</p>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-5" data-aos="zoom-in" data-aos-delay="200">
+            <div class="box">
+              <h2 class="title">04. Lakukan Pembayaran Pendaftaran</h2>
+              <p class="description">Konfirmasi Ke No WhatsApp untuk Lakukan Pembayaran Pendaftaran menggunakan Finpay, Virtual Account BNI & Mandiri Melalui laman <a href = "https://portal.inaba.ac.id/pembayaran"> https://portal.inaba.ac.id/pembayaran</a></p>
+            </div>
+          </div>
+
+          <div class="col-md-7 col-lg-6" data-aos="zoom-in" data-aos-delay="300">
+            <div class="box">
+              <h2 class="title">05. Pengumuman Kelulusan & Daftar Ulang</h2>
+              <p class="description">Ketahui Informasi Pengumuman kelulusan dan mendapatkan NIM setelah melakukan daftar ulang</p>
+            </div>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Services Section -->
+
+
+
+    
+
+    <!-- <section id="details" class="details">
       <div class="container">
         <div class="section-title" data-aos="fade-up">
           <h2>Pendaftaran</h2>
@@ -378,7 +515,7 @@
         </ul>
       </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- ======= F.A.Q Section ======= -->
     <!-- End F.A.Q Section -->
